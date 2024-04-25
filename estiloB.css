@@ -1,0 +1,42 @@
+div{
+    height: 150px;
+    width: 100px;
+    background-color: #cccccc;
+    border-left: 10px dotted #D0D0FF;
+    font-size: 40px;
+    text-align: left;
+    font-family: "tahoma";
+    margin: 10px 0;
+}
+section{
+    display: flex;
+    flex-direction:row ;
+    height: 100vh;
+    gap: 10px;
+}
+div:hover{
+    background-color: yellow;
+    cursor: pointer;
+    color: goldenrod;
+}
+.A{
+    background-color: #dfe1e7;
+}
+.B{
+    background-color: #eeeff2;
+}
+.C{
+    background-color: #dfe1e7;
+}
+.D{
+    background-color: #eeeff2;
+}
+.E{
+    background-color: #dfe1e7;
+}
+.F{
+    align-self: flex-end;
+    margin-left: auto; 
+    background-color: #eeeff2;
+    border-left: 10px dotted #D0D0FF;
+ }

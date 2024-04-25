@@ -1,0 +1,35 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: #cccccc;
+    border-top: 1px solid #687291;
+    font-size: 40px;
+    text-align: center;
+    font-family: "tahoma";
+    margin: 10px 0;
+
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.A{
+    background-color: #dfe1e7;
+}
+.B{
+    background-color: #eeeff2;
+}
+.C{
+    background-color: #dfe1e7;
+}
+.D{
+    background-color: #eeeff2;
+}
+.E{
+    background-color: #dfe1e7;
+}
+.F{
+    background-color: #687291;
+    border: 4px solid #000000;
+ }
